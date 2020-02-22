@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 
 The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last
-seven days.
+seven days.As a good practice "THE CONFIG FILE" was NOT uploaded to the repository. The config file contains the API Key and is required to run the program. 
 
 # Resources
 * JavaScript
